@@ -1,0 +1,27 @@
+.navbar {
+    font-weight: bold;
+    font-size: large;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    background-color:#8697c4;
+    
+    
+    }
+    .navbar ul{
+        display:flex;
+        color:white;
+        }
+        
+ .navbar ul>li{
+        list-style-type: none;
+        margin: 0;
+        padding: 10px;
+        color:white;
+    } 
+   
+   .navbar a {
+    color: #3d52a0;
+    text-decoration: none;
+  }

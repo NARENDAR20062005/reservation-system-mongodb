@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+}
+.hbody{
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: 300%;
+    color: #3d52a0;
+    font-weight:bold ;
+    font-style:italic;
+    align-items: center;
+    justify-content: center;
+}
+.searchbar{
+    z-index: 100;
+    position: absolute;
+    left: 70%;
+    bottom: 94%;
+}
